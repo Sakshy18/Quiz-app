@@ -3,7 +3,7 @@ import 'package:secon_app/question_screen.dart';
 import 'package:secon_app/splash_screen.dart';
 
 class Quiz extends StatefulWidget {
-  Quiz({super.key});
+  const Quiz({super.key});
   @override
   State<Quiz> createState() {
     return _QuizState();
