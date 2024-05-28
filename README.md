@@ -7,7 +7,8 @@
 This is the body text of your README file. You can add more details about your project here.
 
 <!-- Images -->
-![Image 1](path/to/your/image1.png)
-![Image 2](path/to/your/image2.png)
-![Image 3](path/to/your/image3.png)
-![Image 4](path/to/your/image4.png)
+![Image 1](./Output/op1.png)
+![Image 2](./images/image2.png)
+![Image 3](./images/image3.png)
+![Image 4](./images/image4.png)
+
