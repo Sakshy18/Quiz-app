@@ -9,6 +9,8 @@ class QuestionsList {
     required this.correctAnswer,
   });
 
+  get text => null;
+
   List<String> getshuffledAnswer() {
     final shuffledList = List.of(answers);
     shuffledList.shuffle();
