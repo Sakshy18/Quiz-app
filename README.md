@@ -1,16 +1,13 @@
-# secon_app
+<!-- Gradient Heading -->
+<h1 style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+  Your Gradient Heading
+</h1>
 
-A new Flutter project.
+<!-- Body Text -->
+This is the body text of your README file. You can add more details about your project here.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- Images -->
+![Image 1](path/to/your/image1.png)
+![Image 2](path/to/your/image2.png)
+![Image 3](path/to/your/image3.png)
+![Image 4](path/to/your/image4.png)
